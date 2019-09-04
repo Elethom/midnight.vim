@@ -2,6 +2,8 @@
 
 Xcode Midnight color scheme for VIM.
 
+![midnight.vim](https://user-images.githubusercontent.com/6648210/69412083-31f2f080-0d49-11ea-93b5-43e7d88919e4.png)
+
 ## Install
 
 ### Terminal
