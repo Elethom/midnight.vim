@@ -59,6 +59,10 @@ hi def link javaScriptIdentifier Keyword
 hi def link javaScriptValue Identifier
 hi def link javaScriptNumber Number
 hi def link javaScriptBraces Normal
+hi def link jsGlobalObjects Identifier
+hi def link jsObjectProp Identifier
+hi def link jsUndefined Keyword
+hi def link jsOperatorKeyword Keyword
 
 
 " Coc
